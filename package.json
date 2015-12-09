@@ -1,13 +1,12 @@
 {
   "name": "cake-build",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Adds build task to your Cakefile.",
   "main": "lib/",
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "cake-publish": "^0.1.1",
     "cake-version": "^0.1.3",
