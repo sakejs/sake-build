@@ -1,6 +1,6 @@
 {
   "name": "sake-build",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Adds build task to your sakefile.",
   "main": "lib/",
   "directories": {
