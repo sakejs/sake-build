@@ -1,16 +1,24 @@
-# cake-build [![NPM version][npm-img]][npm-url] [![Build Status][travis-img]][travis-url] [![Coverage Status][coveralls-img]][coveralls-url] [![Dependency Status][dependency-img]][dependency-url] [![Gitter chat][gitter-img]][gitter-url]
-Adds test related tasks to your Cakefile.
+# sake-build
+
+[![npm][npm-img]][npm-url]
+[![build][build-img]][build-url]
+[![dependencies][dependencies-img]][dependencies-url]
+[![downloads][downloads-img]][downloads-url]
+[![license][license-img]][license-url]
+[![chat][chat-img]][chat-url]
+
+Adds build related tasks to your Sakefile.
 
 ## Install
 ```bash
-$ npm install cake-build
+$ npm install sake-build --save-dev
 ```
 
 ## Usage
-```coffee
-require 'shortcake'
+In your Sakefile:
 
-use 'cake-build`'
+```javascript
+use('sake-build`')
 ```
 
 [travis-img]:     https://img.shields.io/travis/zeekay/cake-build.svg
