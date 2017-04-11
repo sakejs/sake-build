@@ -18,22 +18,23 @@ $ npm install sake-build --save-dev
 In your Sakefile:
 
 ```javascript
-use('sake-build`')
+use('sake-build')
 ```
 
-[travis-img]:     https://img.shields.io/travis/zeekay/cake-build.svg
-[travis-url]:     https://travis-ci.org/zeekay/cake-build
-[coveralls-img]:  https://coveralls.io/repos/zeekay/cake-build/badge.svg?branch=master&service=github
-[coveralls-url]:  https://coveralls.io/github/zeekay/cake-build?branch=master
-[dependency-url]: https://david-dm.org/zeekay/cake-build
-[dependency-img]: https://david-dm.org/zeekay/cake-build.svg
-[npm-img]:        https://img.shields.io/npm/v/cake-build.svg
-[npm-url]:        https://www.npmjs.com/package/cake-build
-[gitter-img]:     https://badges.gitter.im/join-chat.svg
-[gitter-url]:     https://gitter.im/zeekay/hi
+## License
+[BSD][license-url]
 
-<!-- not used -->
-[downloads-img]:     https://img.shields.io/npm/dm/cake-build.svg
-[downloads-url]:     http://badge.fury.io/js/cake-build
-[devdependency-img]: https://david-dm.org/zeekay/cake-build/dev-status.svg
-[devdependency-url]: https://david-dm.org/zeekay/cake-build#info=devDependencies
+[build-img]:        https://img.shields.io/travis/sakejs/sake-build.svg
+[build-url]:        https://travis-ci.org/sakejs/sake-build
+[chat-img]:         https://badges.gitter.im/join-chat.svg
+[chat-url]:         https://gitter.im/sakejs/chat
+[coverage-img]:     https://coveralls.io/repos/sakejs/sake-build/badge.svg?branch=master&service=github
+[coverage-url]:     https://coveralls.io/github/sakejs/sake-build?branch=master
+[dependencies-img]: https://david-dm.org/sakejs/sake-build.svg
+[dependencies-url]: https://david-dm.org/sakejs/sake-build
+[downloads-img]:    https://img.shields.io/npm/dm/sake-build.svg
+[downloads-url]:    http://badge.fury.io/js/sake-build
+[license-img]:      https://img.shields.io/npm/l/sake-build.svg
+[license-url]:      https://github.com/sakejs/sake-build/blob/master/LICENSE
+[npm-img]:          https://img.shields.io/npm/v/sake-build.svg
+[npm-url]:          https://www.npmjs.com/package/sake-build
