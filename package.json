@@ -2,10 +2,12 @@
   "name": "sake-build",
   "version": "0.1.0",
   "description": "Adds build task to your sakefile.",
-  "main": "lib/",
-  "directories": {
-    "test": "test"
-  },
+  "main": "lib/sake-build.js",
+  "module": "lib/sake-build.js",
+  "files": [
+    "lib/",
+    "src/"
+  ]
   "dependencies": {},
   "devDependencies": {
     "coffee-script": "^1.12.6",
