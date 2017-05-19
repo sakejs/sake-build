@@ -1,9 +1,9 @@
 {
   "name": "sake-build",
   "version": "0.1.0",
-  "description": "Adds build task to your sakefile.",
+  "description": "Adds build task to your Sakefile.",
   "main": "lib/sake-build.js",
-  "module": "lib/sake-build.js",
+  "module": "lib/sake-build.mjs",
   "files": [
     "lib/",
     "src/"
