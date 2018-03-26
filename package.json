@@ -1,6 +1,6 @@
 {
   "name": "sake-build",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Adds build task to your Sakefile.",
   "main": "lib/sake-build.js",
   "module": "lib/sake-build.mjs",
